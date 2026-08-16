@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Mohit Jaiswal<br>
-<br>🎓 Undergraduate Student at Bennett University<br>🤖 Exploring Generative AI & Backend Development<br>🧠 Completed AI/ML fundamentals up to Transformers<br>🌐 Building scalable backend & AI-powered applications<br>💡 Passionate about solving real-world problems through tech<br>🔭 Currently working on GenAI & backend-based projects<br>👯 Open to collaborate on AI, ML & Full-Stack projects
+<br>🤖 Exploring Generative AI & Backend Development<br>🧠 Completed AI/ML fundamentals up to Transformers<br>🌐 Building scalable backend & AI-powered applications<br>💡 Passionate about solving real-world problems through tech<br>🔭 Currently working on GenAI & backend-based projects<br>👯 Open to collaborate on AI, ML & Full-Stack projects
 
 
 ## 🌐 Socials:
